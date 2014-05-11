@@ -1,5 +1,5 @@
-Scripts for the Synology Diskstation
-====================================
+RSync Backup Script
+===================
 
 ### Introduction
 
