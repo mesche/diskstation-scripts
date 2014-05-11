@@ -1,0 +1,1 @@
+/volumeUSB1/usbshare/Backup/backup-script.sh weekly >> /var/log/backup-script-weekly.log 2>&1
