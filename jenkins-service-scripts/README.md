@@ -5,8 +5,9 @@ Jenkins Service Scripts
 
 Some scripts to run jenkins on the Synology Diskstation.
 
-[ jenkins_start.sh - Simple script to start jenkins webserver](jenkins_start.sh)
-[ S99jenkins.sh - Init-script to run jenkins webserver on diskstation start](S99jenkins.sh)
+[ jenkins_start.sh](jenkins_start.sh) - Simple script to start jenkins webserver
+
+[ S99jenkins.sh](S99jenkins.sh) - Init-script to run jenkins webserver on diskstation start
 
  
 ### Tutorial
